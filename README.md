@@ -1,9 +1,9 @@
-# Guvi_CAPSTON_Project_Phonepe-Pulse-Data-Visualization
+# Guvi_CAPSTONE_Project_Phonepe-Pulse-Data-Visualization
 
-Problem Statement:
+PROBLEM STATEMENT:
 The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
 
-Approach:
+APPROACH:
 Data extraction: Clone the Github using scripting to fetch the data from the Phonepe pulse Github repository and store it in a suitable format such as CSV or JSON.
 Data transformation: Use a scripting language such as Python, along with libraries such as Pandas, to manipulate and pre-process the data. This may include cleaning the data, handling missing values, and transforming the data into a format suitable for analysis and visualization.
 Database insertion: Use the "mysql-connector-python" library in Python to connect to a MySQL database and insert the transformed data using SQL commands.
